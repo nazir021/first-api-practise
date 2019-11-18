@@ -1,0 +1,82 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: #bdc3c7;
+}
+#wrapper{
+    width: 960px;
+    margin: 5px auto;
+}
+#header{
+    background-color: #8e44ad;
+    height: 70px;
+    border-bottom: 5px;
+}
+#logo{
+    margin: 20px 20px;
+    padding: 12px 15px;
+}
+#menu{
+    float: right;
+    margin-top: -62px;
+    margin-right: 20px;
+}
+#menu ul{
+    list-style-type: none;
+}
+#menu ul li{
+    float:left;
+    margin-right: 50px;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.7s ease all;
+}
+#menu ul li a:hover{
+    color: rgb(255, 0, 0);
+}
+#text{
+    margin: 5px 5px;
+    display:block;
+    margin-left: 60px;
+    
+}
+#image{
+    margin-top:0px;
+}
+#simple-text{
+    width: 400px;
+    margin-top: 5px;
+    
+}
+#text2{
+    float: right;
+    margin-top: -33px;
+    margin-right: 120px;
+}
+.youtube{
+    width: 400px;
+    height: 268px;
+    float: right;
+}
+.map{
+    width: 400px;
+    height: 226px;
+    float: right;
+    margin-top: 20px;
+}
+#footer{
+    margin-top: 10px;
+    background-color: #a55eea;
+}
+#footer p{
+    color: #000;
+    text-align: center;
+    padding: 7px 7px;
+    font-weight: bold;
+}
+
+
